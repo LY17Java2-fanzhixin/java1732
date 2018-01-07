@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<!-- saved from url=(0094)http://localhost:63342/Program%20Files%20(x86)/liurenxing.html?_ijt=3tb3g1272ocm62ct69hjhsp20d -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <title>六人行首页</title>
+    <style type="text/css">
+        body{
+            margin: 0 auto;
+            padding: 0;
+        }
+        #head{
+            width: 800px;
+            height: 100px;
+            margin: 0 auto;
+        }
+        #in_m{
+            background: url("icon.gif") no-repeat 0px 5px;
+            border: #0A3A9C 3px solid;
+            width: 455px;
+            height:35px;
+            float: left;
+        }
+        #in_m input{
+            width: 415px;
+            height:30px;
+            margin-left: 25px;
+            border: 0px none;
+        }
+        .i_f{
+            height:30px;
+            background-color: #0A3A9C ;
+            border: 0px none;
+            color: #FFFFFF;
+            font-weight: bold;
+            padding-left: 20px;
+        }
+        img{
+            float:left
+        }
+        a{
+            text-decoration:none;
+        }
+        li{
+            float:left;
+            list-style:none;
+            margin:10px
+
+        }
+    </style>
+</head>
+
+<body>
+<div id="head">
+    <div>
+        <img src="./六人行首页_files/logo.gif">
+    </div>
+    <div>
+        <ul>
+            <li> <a href="http://localhost:63342/Program%20Files%20(x86)/liurenxing.html?_ijt=3tb3g1272ocm62ct69hjhsp20d#">首页&nbsp;&nbsp;&nbsp;|</a></li>
+            <li> <a href="http://localhost:63342/Program%20Files%20(x86)/liurenxing.html?_ijt=3tb3g1272ocm62ct69hjhsp20d#">活动&nbsp;&nbsp;&nbsp;|</a></li>
+            <li> <a href="http://localhost:63342/Program%20Files%20(x86)/liurenxing.html?_ijt=3tb3g1272ocm62ct69hjhsp20d#">据点&nbsp;&nbsp;&nbsp;|</a></li>
+            <li> <a href="http://localhost:63342/Program%20Files%20(x86)/liurenxing.html?_ijt=3tb3g1272ocm62ct69hjhsp20d#">招贴&nbsp;&nbsp;&nbsp;|</a></li>
+            <li> <a href="http://localhost:63342/Program%20Files%20(x86)/liurenxing.html?_ijt=3tb3g1272ocm62ct69hjhsp20d#">VIP服务&nbsp;&nbsp;&nbsp;|</a></li>
+            <li> <a href="http://localhost:63342/Program%20Files%20(x86)/liurenxing.html?_ijt=3tb3g1272ocm62ct69hjhsp20d#">随便逛逛</a></li>
+        </ul>
+        <div>
+            <table>
+                <tbody><tr>
+                    <td>
+                        <div id="in_m">
+                            <input type="text">
+                        </div>
+                    </td>
+                    <td><input type="button" value="查一查！" class="i_f">
+                    </td>
+                </tr>
+            </tbody></table>
+        </div>
+    </div>
+</div>
+
+
+</body></html>
